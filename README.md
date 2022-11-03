@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @byu-coug55
+## Glad you made it to my page!
+
+### A little about me:
 - 👀 I’m interested in data analysis and data science - I am in particular a fan of NLP. 
 - 🤖 I currently work for Medable as a data analyst
 - 🌱 I’m currently reading Nate Silver's "The Signal and the Noise" and learning about R's Shiny package.
-- 💞️ I’m looking to collaborate on data science projects.
+- 🥳 If you like what you see in my repo's and want to collaborate, let me know!
 - 📫 You can reach me via linkedin: https://www.linkedin.com/in/lance-christian-byu/
 
 <!---
